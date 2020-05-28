@@ -45,7 +45,7 @@ Here is the visualization of the random node exploration by each of the algorith
 
 3. Informed-RRT* algorithm:
 
-<img src="images/informed-rrt*.png" width="800">
+<img src="images/informed_rrt*.png" width="800">
 
 ### Output Video:
 
